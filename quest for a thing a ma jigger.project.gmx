@@ -26,9 +26,9 @@
   </sprites>
   <backgrounds name="background">
     <background>background\bg_grass</background>
-    <background>background\img_hometown</background>
     <background>background\img_menu</background>
     <background>background\img_player_house</background>
+    <background>background\bg_hometown</background>
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
@@ -40,6 +40,7 @@
   </scripts>
   <fonts name="fonts">
     <font>fonts\fnt_times_new_roman</font>
+    <font>fonts\ft_inventory_font</font>
   </fonts>
   <objects name="objects">
     <object>objects\obj_stickguy</object>

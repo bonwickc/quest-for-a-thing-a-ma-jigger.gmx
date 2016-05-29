@@ -5,6 +5,8 @@ key_left = -keyboard_check(ord('A'));
 key_up = keyboard_check(ord('W'));
 key_down = keyboard_check(ord('S'));
 key_attack = keyboard_check_released(vk_space);
+left_click = mouse_check_button_pressed(mb_left);
+right_click = mouse_check_button_pressed(mb_right);
 
 #define scr_gameinputs_direction_facing
 //get players inputs for plains
